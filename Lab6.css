@@ -238,7 +238,13 @@ h3 {
     text-align: center;
 }
 
-.cp {
+footer .cp {
+    text-align: center;
+    font-family: serif;
+    font-size: 15px;
+}
+
+footer .footer-bottom {
     text-align: center;
     font-family: serif;
     font-size: 15px;
